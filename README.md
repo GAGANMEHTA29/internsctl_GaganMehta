@@ -4,6 +4,15 @@
 
 internsctl is a custom Linux command designed to provide various system-related operations. It includes functionalities to retrieve CPU information, memory information, manage users, and obtain file details.
 
+### Workflow Diagram
+![WhatsApp Image 2024-01-10 at 14 18 41_faf6c18d](https://github.com/GAGANMEHTA29/internsctl_GaganMehta/assets/99328799/f4644c11-927e-444e-a351-6448944f2bab)
+
+
+The workflow involves the following steps:
+1. The user inputs a command and additional parameters.
+2. The CommandLine class parses the input and delegates the command to the appropriate functionality class.
+3. The functionality class executes the requested operation and provides the result.
+
 ## Installation
 
 1. Download the internsctl script to your local machine.

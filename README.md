@@ -1,4 +1,4 @@
-![WhatsApp Image 2024-01-10 at 13 52 39_ce241a48](https://github.com/GAGANMEHTA29/internsctl_GaganMehta/assets/99328799/2bee65c3-6e37-4e40-94fd-3035d63c4d2c)![WhatsApp Image 2024-01-10 at 13 52 39_281a5b5d](https://github.com/GAGANMEHTA29/internsctl_GaganMehta/assets/99328799/3a05fbf8-909e-4f06-9f40-679255bbb1a6)# internsctl - Custom Linux Command
+# internsctl - Custom Linux Command
 
 ## Overview
 
